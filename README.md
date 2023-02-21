@@ -1,10 +1,10 @@
-# Group 0
-Group Name: Team MergeSort
+# Group 6
+Group Name:
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[MVP Link]
 
-Team Members: welby2, svarma4, weustis2
+Team Members: 
 
-Project Manager: mgeimer2
+Project Manager: Ritul Soni (rsoni27) & Rohit (rohitv3)
 
-Project Description: This project sorts an array quickly using the mergesort algorithm. Our group decided on this project because we love working with arrays.
+Project Description: 
